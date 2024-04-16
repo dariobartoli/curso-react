@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <AppCounter/> debe hacer match con el snapshot 1`] = `
+<div>
+  <p
+    data-testid="test-value"
+  >
+    100
+  </p>
+  <button>
+    sumar +1
+  </button>
+  <button>
+    restar -1
+  </button>
+  <button
+    aria-label="btn-reset"
+  >
+    reset
+  </button>
+</div>
+`;
